@@ -4,8 +4,8 @@ This repository is a starter template for developing applications using the MERN
 
 ## Features
 
-- **MongoDB**: NoSQL database for storing application data.
+- **MySQL**: Relational database for structured data storage and application data.
 - **Express**: Web framework for building RESTful APIs.
 - **React**: Frontend library for building user interfaces.
 - **Node.js**: JavaScript runtime for server-side development.
-- **MySQL**: Relational database for structured data storage.
+
